@@ -1,4 +1,4 @@
-# Matrix Headlines — 短视频爆款标题生成器
+# Matrix Headlines (短视频爆款标题生成器)
 
 > 基于 Gemini AI 的短视频跨平台爆款标题矩阵生成工具，专为财经 / 硬科普内容创作者打造。
 
